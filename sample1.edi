@@ -1,0 +1,276 @@
+ISA*00*          *00*          *01*808300594      *12*6132240022     *180615*1404*U*00304*000000004*0*P*>
+GS*IB*AWARD*6132240022*180615*14040055*5*X*003040
+ST*846*1000
+BIA*00*S8*TC384889*180615*14040055
+DTM*009*****DTS*20180615140400
+N1*SJ**1*054748041
+N1*41**1*883328874
+LIN*1*OA*3
+REF*RE*Y
+CTT*1
+SE*9*1000
+GE*1*5
+GS*IB*AWARD*6132240022*180615*14040055*6*X*003040
+ST*843*1000
+BQR*06*25805663*180615
+NTE*ZZZ*This capacity will be recallable for administrative purposes
+REF*IB*N
+REF*BD*25825120
+REF*IF*25825120
+REF*H6*Y
+REF*ZZ*None
+REF*H5*RR*NTE
+DTM*050*****DTS*20180615100054
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100054
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*SJG*1*051409605
+N1*BY*South Jersey Re*1*036474336
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.5*****RATE
+SDQ*BZ**AQ*3000
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**3000***AQ
+N1*MQ*SOUTH JERSEY GAS CO*95*109
+TD1**3000***AQ
+CTT*1
+SE*29*1000
+ST*843*2000
+BQR*06*25805664*180615
+NTE*ZZZ*This capacity will be recallable for administrative purposes
+REF*IB*N
+REF*BD*25825121
+REF*IF*25825121
+REF*H6*Y
+REF*ZZ*None
+REF*H5*RR*NTE
+DTM*050*****DTS*20180615100048
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100048
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*SJG*1*051409605
+N1*BY*Spotlight En*1*079978564
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****3.381*****RATE
+SDQ*BZ**AQ*2000
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**2000***AQ
+N1*MQ*SOUTH JERSEY GAS CO*95*109
+TD1**2000***AQ
+CTT*1
+SE*29*2000
+ST*843*3000
+BQR*06*25805665*180615
+NTE*ZZZ*This capacity will be recallable for administrative purposes
+REF*IB*N
+REF*BD*25825122
+REF*IF*25825122
+REF*H6*Y
+REF*ZZ*None
+REF*H5*RR*NTE
+DTM*050*****DTS*20180615100042
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100042
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*SJG*1*051409605
+N1*BY*Macquarie*1*798846036
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.35*****RATE
+SDQ*BZ**AQ*5000
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**5000***AQ
+N1*MQ*SOUTH JERSEY GAS CO*95*109
+TD1**5000***AQ
+CTT*1
+SE*29*3000
+ST*843*4000
+BQR*06*25805666*180615
+REF*IB*N
+REF*BD*25825123
+REF*IF*25825123
+REF*H6*Y
+REF*ZZ*None
+REF*H5*OR*864
+DTM*050*****DTS*20180615100035
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100035
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*New Jersey Nat.*1*061843553
+N1*BY*Macquarie*1*798846036
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.2*****RATE
+SDQ*BZ**AQ*5000
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**5000***AQ
+N1*MQ*NEW JERSEY NATURAL*95*100
+TD1**5000***AQ
+CTT*1
+SE*28*4000
+ST*843*5000
+BQR*06*25805667*180615
+REF*IB*N
+REF*BD*25825124
+REF*IF*25825124
+REF*H6*Y
+REF*ZZ*None
+REF*H5*OR*864
+DTM*050*****DTS*20180615100029
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100029
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*New Jersey Nat.*1*061843553
+N1*BY*South Jersey Re*1*036474336
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.5*****RATE
+SDQ*BZ**AQ*1500
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**1500***AQ
+N1*MQ*NEW JERSEY NATURAL*95*100
+TD1**1500***AQ
+CTT*1
+SE*28*5000
+ST*843*6000
+BQR*06*25805668*180615
+NTE*ZZZ*Recallable
+REF*IB*N
+REF*BD*25825125
+REF*IF*25825125
+REF*H6*Y
+REF*ZZ*None
+REF*H5*YR*NTE
+DTM*050*****DTS*20180615100020
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100020
+LIN**RN*1*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*Elevation En*1*079736999
+N1*BY*South Jersey Re*1*036474336
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.5*****RATE
+SDQ*BZ**AQ*1500
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**1500***AQ
+N1*MQ*NEW JERSEY NATURAL*95*100
+TD1**1500***AQ
+CTT*1
+SE*29*6000
+ST*843*7000
+BQR*06*25805669*180615
+NTE*ZZZ*recallable
+REF*IB*N
+REF*BD*25825126
+REF*IF*25825126
+REF*H6*Y
+REF*ZZ*None
+REF*H5*YR*NTE
+DTM*050*****DTS*20180615100013
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100013
+LIN**RN*1*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*Elevation En*1*079736999
+N1*BY*Spotlight En*1*079978564
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****4.5*****RATE
+SDQ*BZ**AQ*5000
+DTM*448*****RD8*00040101-00041231
+N1*M2*MILFORD-21*95*B18
+TD1**5000***AQ
+N1*MQ*NEW JERSEY NATURAL*95*100
+TD1**5000***AQ
+CTT*1
+SE*29*7000
+ST*843*8000
+BQR*06*25805761*180615
+REF*IB*N
+REF*BD*25825218
+REF*IF*25825218
+REF*H6*Y
+REF*ZZ*None
+REF*H5*NO
+DTM*050*****DTS*20180615100000
+DTM*580*****RTS*20180616090000-20180618090909
+DTM*103*****DTS*20180615100000
+LIN**RN*2*SH*1*SV*2*MO*FTS
+N1*SJ**1*054748041
+N1*SE*HG Energy II*SV*4226489
+N1*BY*Twin Eagle R*1*965177889
+PO1*1*****BT*3*AM*1*F5*MO*MO*FTS
+REF*99*A
+REF*SV*1
+SAC*A**AP*RES****6.287*****RATE
+SAC*R**AP*RES****1.2*****RATE
+SDQ*BZ**AQ*6800
+DTM*448*****RD8*00040101-00041231
+N1*M2*Braxton*95*842867
+TD1**6800***AQ
+N1*MQ*TCO-LEACH*95*801
+TD1**6800***AQ
+CTT*1
+SE*28*8000
+GE*8*6
+GS*IB*AWARD*6132240022*180615*14040055*7*X*003040
+ST*864*1000
+BMG*00*25805666*V1
+DTM*145*****DTS*20180615083712
+N1*SJ**1*054748041
+REF*BD*25825123
+MIT*ZZZ*1
+MSG*New Jersey Natural Gas ( NJNG ) shall have the right to recall its capacity immediately (pursuant to the pipeline's tariff) if the Replacement Shipper fails to perform any of its obligations under its service agreement with pipeline, including, but not
+MSG* limited to, comply with the pipeline's creditworthiness requirements, experiences a decrease in its creditworthiness at any time during the term of the release, and/or fails to timely pay all pipeline charges when due. NJNG may require credit support in an
+MSG* amount commensurate with potential exposure, at it's discretion.
+SE*10*1000
+ST*864*2000
+BMG*00*25805667*V1
+DTM*145*****DTS*20180615084137
+N1*SJ**1*054748041
+REF*BD*25825124
+MIT*ZZZ*1
+MSG*New Jersey Natural Gas ( NJNG ) shall have the right to recall its capacity immediately (pursuant to the pipeline's tariff) if the Replacement Shipper fails to perform any of its obligations under its service agreement with pipeline, including, but not
+MSG* limited to, comply with the pipeline's creditworthiness requirements, experiences a decrease in its creditworthiness at any time during the term of the release, and/or fails to timely pay all pipeline charges when due. NJNG may require credit support in an
+MSG* amount commensurate with potential exposure, at it's discretion.
+SE*10*2000
+ST*864*2000
+BMG*00*25805667*V1
+DTM*145*****DTS*20180615084137
+N1*SJ**1*054748041
+REF*BD*25825124
+MIT*ZZZ*1
+MSG*New Jersey Natural Gas ( NJNG ) shall have the right to recall its capacity immediately (pursuant to the pipeline's tariff) if the Replacement Shipper fails to perform any of its obligations under its service agreement with pipeline, including, but not
+MSG* limited to, comply with the pipeline's creditworthiness requirements, experiences a decrease in its creditworthiness at any time during the term of the release, and/or fails to timely pay all pipeline charges when due. NJNG may require credit support in an
+MSG* amount commensurate with potential exposure, at it's discretion.
+SE*10*2000
+GE*2*7
+IEA*3*000000004

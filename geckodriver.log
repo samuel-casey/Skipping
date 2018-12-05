@@ -1,0 +1,460 @@
+1530909385879	geckodriver	INFO	geckodriver 0.21.0
+1530909385898	geckodriver	INFO	Listening on 127.0.0.1:50320
+1530909388944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.ujE6pXufAXz6"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909391692	Marionette	INFO	Listening on port 50329
+1530909392193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530909488518	geckodriver	INFO	geckodriver 0.21.0
+1530909488531	geckodriver	INFO	Listening on 127.0.0.1:50368
+1530909491565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.DkWMQJbvaWIJ"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909493874	Marionette	INFO	Listening on port 50376
+1530909494309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530909526856	geckodriver	INFO	geckodriver 0.21.0
+1530909526870	geckodriver	INFO	Listening on 127.0.0.1:50418
+1530909529911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.DCGcNidMTKGA"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909532189	Marionette	INFO	Listening on port 50426
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909532694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530909946469	geckodriver	INFO	geckodriver 0.21.0
+1530909946485	geckodriver	INFO	Listening on 127.0.0.1:50540
+1530909949565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.BiZB0HbcWkZO"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909952039	Marionette	INFO	Listening on port 50548
+1530909952330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530909987561	geckodriver	INFO	geckodriver 0.21.0
+1530909987583	geckodriver	INFO	Listening on 127.0.0.1:50604
+1530909990633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.TZ4eHPR0WHcQ"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530909993253	Marionette	INFO	Listening on port 50612
+1530909993403	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530910011603	geckodriver	INFO	geckodriver 0.21.0
+1530910011620	geckodriver	INFO	Listening on 127.0.0.1:50659
+1530910014658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.I3pcL65qhaaP"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530910017504	Marionette	INFO	Listening on port 50667
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530910017918	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 13352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 13352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530910030047	geckodriver	INFO	geckodriver 0.21.0
+1530910030062	geckodriver	INFO	Listening on 127.0.0.1:50714
+1530910033105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.geF3nzVotWsP"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530910035701	Marionette	INFO	Listening on port 50722
+1530910035839	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14136, Ch[Parent 13828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530910119395	geckodriver	INFO	geckodriver 0.21.0
+1530910119411	geckodriver	INFO	Listening on 127.0.0.1:50772
+1530910122490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.pglTY8ItYLal"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1530910125054	Marionette	INFO	Listening on port 50780
+1530910125266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531142556674	geckodriver	INFO	geckodriver 0.21.0
+1531142556691	geckodriver	INFO	Listening on 127.0.0.1:55534
+1531142559765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.TbI1TBT7TAr8"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1531142562389	Marionette	INFO	Listening on port 55547
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+1531142562622	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3768, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 9052, Chrome_Ch[Parent 3768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Parent 436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\apiispanen\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file [Child 8456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_zc:/build/build/src/ipc/chromium/src/chrome/common/ipc_chhaannel_win.cc, line 346
+nnel_w[Child 8456, Chrome_ChildThread] WARNINiG: pni.pce errco,r :line 346
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Parent 12236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543245636038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.fsdWfBoP9yHz"
+1543245641368	Marionette	INFO	Listening on port 63782
+1543245641514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543245641563	Marionette	DEBUG	[6442450945] Frame script loaded
+1543245641572	Marionette	DEBUG	[6442450945] Frame script registered
+1543245641708	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543245642718	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543245643195	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543245644842	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+[Child 18836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com[Child 14004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+mon/ipc_[Child 14004, Chrome_ChildThread] WARchannel_win.cc, line NING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1543246013838	Marionette	INFO	Stopped listening on port 63782
+[GPU 9324, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543245922075	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+[Child 8900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16560, Chrome_ChildThread] WARNING[Parent 19512, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543246012748	Marionette	INFO	Stopped listening on port 64236
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+OM event DOMContentLoaded for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543245981583	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+1543245981841	Marionette	DEBUG	[6442450951] Frame script loaded
+1543245981881	Marionette	DEBUG	[6442450951] Frame script registered
+1543245981933	Marionette	DEBUG	[6442450954] Frame script loaded
+1543245981963	Marionette	DEBUG	[6442450954] Frame script registered
+1543245982251	Marionette	DEBUG	[6442450957] Frame script loaded
+1543245982273	Marionette	DEBUG	[6442450957] Frame script registered
+1543245982538	Marionette	DEBUG	[6442450961] Frame script loaded
+1543245982541	Marionette	DEBUG	[6442450961] Frame script registered
+1543245983410	Marionette	DEBUG	[6442450966] Frame script loaded
+1543245983412	Marionette	DEBUG	[6442450966] Frame script registered
+1543245983945	Marionette	DEBUG	[6442450970] Frame script loaded
+1543245983966	Marionette	DEBUG	[6442450970] Frame script registered
+1543245984607	Marionette	DEBUG	[6442450973] Frame script loaded
+1543245984655	Marionette	DEBUG	[6442450973] Frame script registered
+1543245985664	Marionette	DEBUG	[6442450978] Frame script loaded
+1543245985685	Marionette	DEBUG	[6442450978] Frame script registered
+1543245986210	Marionette	DEBUG	[6442450981] Frame script loaded
+1543245986222	Marionette	DEBUG	[6442450981] Frame script registered
+1543245986711	Marionette	DEBUG	[6442450985] Frame script loaded
+1543245986730	Marionette	DEBUG	[6442450985] Frame script registered
+1543245987263	Marionette	DEBUG	[6442450989] Frame script loaded
+1543245987383	Marionette	DEBUG	[6442450989] Frame script registered
+[Child 18532, Chrome_ChildTh
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1853
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543245988388	Marionette	INFO	Stopped listening on port 64367
+[GPU 12
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543246027946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.Y0BjIKrX3Fkg"
+1543246030923	Marionette	INFO	Listening on port 64506
+1543246031187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543246031251	Marionette	DEBUG	[6442450945] Frame script loaded
+1543246031267	Marionette	DEBUG	[6442450945] Frame script registered
+1543246031303	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543246032093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543246032441	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543246034221	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+1543246034412	Marionette	DEBUG	[6442450951] Frame script loaded
+1543246034467	Marionette	DEBUG	[6442450951] Frame script registered
+1543246034508	Marionette	DEBUG	[6442450954] Frame script loaded
+1543246034519	Marionette	DEBUG	[6442450954] Frame script registered
+1543246039657	Marionette	DEBUG	[6442450958] Frame script loaded
+1543246039663	Marionette	DEBUG	[6442450958] Frame script registered
+1543246045266	Marionette	DEBUG	[6442450962] Frame script loaded
+1543246045266	Marionette	DEBUG	[6442450962] Frame script registered
+1543246050843	Marionette	DEBUG	[6442450966] Frame script loaded
+1543246050846	Marionette	DEBUG	[6442450966] Frame script registered
+1543246056451	Marionette	DEBUG	[6442450970] Frame script loaded
+1543246056453	Marionette	DEBUG	[6442450970] Frame script registered
+1543246062048	Marionette	DEBUG	[6442450974] Frame script loaded
+1543246062061	Marionette	DEBUG	[6442450974] Frame script registered
+1543246067622	Marionette	DEBUG	[6442450978] Frame script loaded
+1543246067633	Marionette	DEBUG	[6442450978] Frame script registered
+1543246073224	Marionette	DEBUG	[6442450982] Frame script loaded
+1543246073237	Marionette	DEBUG	[6442450982] Frame script registered
+1543246078802	Marionette	DEBUG	[6442450986] Frame script loaded
+1543246078811	Marionette	DEBUG	[6442450986] Frame script registered
+1543246084412	Marionette	DEBUG	[6442450990] Frame script loaded
+1543246084416	Marionette	DEBUG	[6442450990] Frame script registered
+[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16464, Chrome_Chil1543246132634	Marionette	INFO	Stopped listening on port 64506
+[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543333592064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.CBNQtrNVrCln"
+1543333597195	Marionette	INFO	Listening on port 58475
+1543333597537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333597586	Marionette	DEBUG	[4294967297] Frame script loaded
+1543333597735	Marionette	DEBUG	[4294967297] Frame script registered
+1543333597803	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1543333598805	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1543333599235	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543333600915	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+1543333601107	Marionette	DEBUG	[4294967303] Frame script loaded
+1543333601156	Marionette	DEBUG	[4294967303] Frame script registered
+1543333601194	Marionette	DEBUG	[4294967306] Frame script loaded
+1543333601204	Marionette	DEBUG	[4294967306] Frame script registered
+[Child 20512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20512, Chrome_ChildThread] WARNING[Parent 10156, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543333681393	Marionette	INFO	Stopped listening on port 58475
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionette	DEBUG	[6442450945] Frame script registered
+1543333679414	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1543333680376	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1543333681198	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+JavaScript warning: https://csimain.sscgp.com/Scripts/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csimain.sscgp.com/ScriptResource.axd?d=hAR49LoosO9CRlr3eGmK_69dSs6STc-jbqYmbEobxCfcFtwBJLVKTiRK00tsqJyW2yswgJTUw1je0E_2i7lUxbfeW-ayRNeSLrzqYP320oE8qdI-9901zlgNEhLFbr17SKbgCjYNehHJcO5x4CqRFGgB9oTj8VTnR6CeTT4PLKE_nzBXVyRpur6enfTAi19u0&t=4b4a1eea, line 1: unreachable code after return statement
+1543333683250	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://csimain.sscgp.com/App/InformationalPostings/TransactionalReporting/TransactionalReportingFirmTransportation
+1543333683419	Marionette	DEBUG	[6442450951] Frame script loaded
+1543333683473	Marionette	DEBUG	[6442450951] Frame script registered
+1543333683518	Marionette	DEBUG	[6442450954] Frame script loaded
+1543333683521	Marionette	DEBUG	[6442450954] Frame script registered
+[Parent 5536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18508, Chrome_ChildThre1543333716815	Marionette	INFO	Stopped listening on port 58664
+[GPU 19724,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543867660910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.V5auvAyn6zKZ"
+1543867687239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.dQ0FWJ6xUuAe"
+1543867690630	Marionette	INFO	Listening on port 57667
+1543867691086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://searchenginewatch.com/wp-content/plugins/cnt-marketo/js/jquery.base64.min.js?ver=4.9.8, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.transit/0.9.12/jquery.transit.min.js?ver=28092017, line 1: TypeError: t is undefined
+JavaScript error: https://searchenginewatch.com/wp-content/themes/sew/js/main.min.js?ver=28092017, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://searchenginewatch.com/wp-content/themes/sew/js/jquery.transit.min.js?ver=4.9.8, line 20: ReferenceError: jQuery is not defined
+JavaScript error: https://searchenginewatch.com/2018/02/01/the-best-tools-for-automating-your-seo/, line 474: ReferenceError: jQuery is not defined
+JavaScript error: https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&annotation=inline&width=80&hl=en-GB&origin=https%3A%2F%2Fsearchenginewatch.com&url=https%3A%2F%2Fsearchenginewatch.com%2F&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.FOUII-PoLSE.O%2Fam%3DwQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNt6sH0moVvACpVfJmwWDm4b0L3WA%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I1_1534931897344&_gfid=I1_1534931897344&parent=https%3A%2F%2Fsearchenginewatch.com&pfname=&rpctoken=34289381, line 96: ReferenceError: iframes is not defined
+JavaScript error: https://searchenginewatch.com/2018/02/01/the-best-tools-for-automating-your-seo/, line 1: ReferenceError: $ is not defined
+JavaScript error: https://searchenginewatch.com/2018/02/01/the-best-tools-for-automating-your-seo/, line 1: TypeError: document.getElementById(...) is null
+[Parent 19500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 508console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 19500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/1543868633404	Marionette	INFO	Stopped listening on port 57667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 17596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23708, C1543875723727	Marionette	INFO	Stopped listening on port 59071
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543940245354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.lUjeWB4OuZeF"
+1543940248763	Marionette	INFO	Listening on port 55536
+1543940249259	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 14000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro1543940792856	Marionette	INFO	Stopped listening on port 55536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Child 22512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22512, Chrome_ChildThread] WAR[Parent 25504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543940795360	Marionette	INFO	Stopped listening on port 55950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543940826245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.37M6UwOK4vV1"
+1543940829139	Marionette	INFO	Listening on port 56643
+1543940829500	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 229[Child 14100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Parent 14484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8640, Chrome_ChildThread] WARN1543940908448	Marionette	INFO	Stopped listening on port 56738
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: cannot send/recv
+
+1543940901649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.Huq0Ygs0uEIP"
+1543940904711	Marionette	INFO	Listening on port 56859
+1543940904958	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 9992, Chrome_ChildThread] WARNING: d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346p
+ipe error: 109: file z:/build/b[uChild 2ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Parent 3212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543940925208	Marionette	INFO	Stopped listening on port 56859
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543940933231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.DDxn40JnZBJK"
+1543940936234	Marionette	INFO	Listening on port 56960
+1543940936529	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 227[Parent 12200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2151543941230363	Marionette	INFO	Stopped listening on port 56960
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 5532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5532, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543952693476	Marionette	INFO	Stopped listening on port 57083
+Settings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 13216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 11400, Chrome_ChildThread] WARNING:[Child 23936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Parent 22988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4144, Chrome_Ch1543941519491	Marionette	INFO	Stopped listening on port 57699
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

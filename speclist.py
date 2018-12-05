@@ -1,0 +1,166 @@
+from udf_specs import *
+import os
+delimiters = ['|','~','-', '*']
+
+print('******            EDI TO UDF CONVERSIONS     ******\nOpening file called "edi.edi" ...')
+with open('edi.edi') as file:  
+    listy = file.read() 
+
+# udf_award = udf[14:]
+
+def edi_table(listy):
+    listy = listy.splitlines()
+    #  Starts by identifying the delimiter (highest value of the second line of 
+    #  the EDI(in case there's an extra line) from the delimiter list)
+    #  Reformats the data from EDI to tabled lists (this removes first element too, 
+    #  remove "[1:]" to change for normal EDI)
+    i= 0
+    delim_count ={}
+    for delimiter in delimiters:
+        delim_count[delimiter]=listy[1].count(delimiter)
+    delim, value = sorted(delim_count.items(), key=lambda x: x[1])[-1]
+    print('Delimiters in the second line of code: ', delim_count, ' \n Found that the delimiter is --> ', delim)
+    for line in listy:
+        listy[i] = line.split(delim)
+        ##### IF TRADITIONAL EDI WITHOUT SEGMENTED NUMBERS, COMMENT THIS NEXT LINE OUT
+        listy[i]=listy[i][1:]
+        i+=1
+    if [] in listy:
+        listy.remove([])
+    return listy
+
+def segment_it(listy):
+    st_count=-1
+    line_no = 0
+    segmented=[]
+    segment_include = False
+    # return listy
+    for line in listy:
+        element=line[0]
+        if element=='ST' or element=='PO1':
+            segment_include=True
+            segmented.append([])
+            st_count+=1
+        if segment_include == True:
+            segmented[st_count].append(listy[line_no])
+        if element=='SE':
+            segment_include=False
+        line_no+=1
+    return segmented
+def find_value(element, code, pos, listy):
+    ## Looks through list and returns the value based on the element to look for,
+    ## code to look for, and then the number of positions to jump
+    for line in listy:
+        found_element = line[0]
+        found_code = line[1]
+        if code == '':
+            found_code = code
+        if code == found_code and element == found_element:
+            value = line[pos]  
+    return value 
+def LIN_value(element, code, listy):
+    value = ''
+    for line in listy:
+        found_element = line[0] 
+        if found_element == element:
+            try:
+                line.index(code)
+                value = (line[line.index(code)+1])
+            except:
+                continue
+    return value
+
+listy = edi_table(listy)
+udf_string = ''
+listy = segment_it(listy)
+
+header, offers,bids,awards,widthdraws,OA,sys_not,rel_cap,IT,FT = ([],[],[],[],[],[],[],[],[],[])
+for segment in listy:
+    opener = segment[0][0]
+    identifier = segment[0][1]
+    conditional = segment[1][1]
+    if identifier == "846":
+        header.append(segment)
+        header_segment = header[0]
+    if identifier == "840":
+        offers.append(segment)
+    if identifier == "843":
+        if conditional == "15" or conditional == "06":
+            awards.append(segment)
+        if conditional == "BI" or conditional == "BW":
+            bids.append(segment)
+        if conditional == "B":
+            widthdraws.append(segment)
+    if identifier == "873":
+        OA.append(segment)
+    if identifier == "864":
+        sys_not.append(segment)
+    if opener == 'PO1':
+        awards.append(segment)
+print('Using file "udf_specs.py" for translation assitance')
+##HEADER ONLY (IF AVAILABLE), LOOKS AT FIRST SEGMENT
+if header!=[]:
+    for spec in udf_header:
+        # print(segment)
+        if len(spec)>1:
+            try:
+                value = find_value(spec[1],spec[2],spec[4],header_segment)
+            except:
+                value = ''
+            length = spec[3]
+        else:
+            value = spec[0]
+            length = len(spec[0]) 
+        if len(spec)>5:
+                # print(value)
+                value = value[spec[5]:spec[6]]
+        udf_string = udf_string+value
+        udf_string = udf_string+' '*(length-len(value))
+#### NOW FOR THE REST, WHEN IN DOUBT LOOK THROUGH/CITE THE HEADER AGAIN:
+for segment in awards:
+    for spec in udf_award:
+        if len(spec)==5 or len(spec)==7:
+            length = spec[3]
+            try:
+                value = find_value(spec[1],spec[2],spec[4],segment)
+            except:
+                if segment[0][0]=='PO1':
+                    value = ''
+                else:    
+                    try:
+                        value = find_value(spec[1],spec[2],spec[4],header_segment)
+                    except:
+                        value = ''
+            if len(spec) == 7:
+                value = value[spec[5]:spec[6]]
+        elif len(spec) == 6:
+            length = spec[3]
+            value = LIN_value(spec[1],spec[2],segment)
+        
+        else: ### IF SPEC EQUALS 1 OR SOMETHING WEIRD, JUST PRINT THE FIRST ITEM.
+            value = spec[0]
+            length = len(spec[0]) 
+        #### NOW, LET'S PRINT THE UDF IN UDF_STRING
+        udf_string = udf_string+value+' '*(length-len(value))
+## MAKE FINAL ADJUSTMENTS 
+for line in udf_string.splitlines(): 
+    ## THIS IS THE REDICULOUS REFERENCE NUMBER CHANGE INTO UDF
+    if line[:2]=='H1':
+        if line[79:81] == 'YR' or line[79:81] == 'YD':
+            newline= list(line)
+            newline[81] = '1'
+            newline = "".join(newline)
+            udf_string=udf_string.replace(line,newline)     
+    ### NOW JUST REMOVING THE NULL LINES :
+    if line[2:].replace(' ','') == '':  
+       udf_string=udf_string.replace(line,'')
+udf_string = os.linesep.join([s for s in udf_string.splitlines() if s])
+print('UDF print attached. Can also be found as the filename "output.udf" in the local drive:\n')
+print(udf_string)
+
+# # # SEND IT TO UDF FILE FORMAT # # #
+
+text_file = open("output.udf", "w")
+text_file.write(udf_string)
+text_file.close()
+print('\nSent to udf file format \n*********               CONVERSION COMPLETE                  ************')

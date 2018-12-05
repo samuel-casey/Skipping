@@ -1,0 +1,852 @@
+1543869901026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.fP6mG6sU2uiE"
+1543869903709	Marionette	INFO	Listening on port 61359
+1543869903807	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn-sic.33across.com/1/javascripts/sic.js, line 71: TypeError: null has no properties
+[Parent 23784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript erIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+ror:IPDL protocol error: Handler returned error code!
+ res
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+ource://gre/moduIPDL protocol error: Handler returned error code!
+les/Web
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+ProgressIPDL protocol error: Handler returned error code!
+Chil
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+d.jsm, lIPDL protocol error: Handler returned error code!
+ine 
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+58: TypeEIPDL protocol error: Handler returned error code!
+rror
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+: this.mm.content is null
+[Parent 23784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Parent 23784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543873000058	Marionette	INFO	Stopped listening on port 61359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543875623576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.GlPSCfO7Reqa"
+1543875626485	Marionette	INFO	Listening on port 55099
+1543875626839	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 1316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24644, Chrome_ChildThread] WARNING: pipe err1543875728408	Marionette	INFO	Stopped listening on port 55099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543875811989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.QWWYgy3fQreY"
+1543875816231	Marionette	INFO	Listening on port 60501
+1543875816348	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/6.2.7/0.js, line 204: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidst[Parent 20676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20676, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543933414084	Marionette	INFO	Stopped listening on port 49343
+m/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60775547/20180730144935477/728x90/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=omnvUBKB7Q&t=1, line 145: SyntaxError: identifier starts immediately after numeric literal
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60775547/20180730144935477/728x90/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=YdOGNDqXeZ&t=1, line 145: SyntaxError: identifier starts immediately after numeric literal
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60775547/20180730144935477/728x90/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=BrHQBNIC1q&t=1, line 145: SyntaxError: identifier starts immediately after numeric literal
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript warning: https://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript warning: https://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://vidstat.taboola.com/vpaid/units/20_10_0/infra/cmTagEXPANDABLE.js, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/6.2.7/0.js, line 204: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/6.2.7/0.js, line 204: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn-ssl.vidible.tv/prod/ad-client/js/6.2.7/0.js, line 204: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543933418970	Marionette	INFO	Stopped listening on port 60501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543933981114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.2A8KtL5ZDCAJ"
+1543933985377	Marionette	INFO	Listening on port 53375
+1543933985468	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 19340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19340, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1543934106940	Marionette	INFO	Stopped listening on port 53375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18348, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, Chrome_ChildThread] WARNING: pipe 1543934106147	Marionette	INFO	Stopped listening on port 53578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543934199340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.uMoTckcY5vjy"
+1543934202576	Marionette	INFO	Listening on port 53821
+1543934202680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-747464-13, line 147: unreachable code after return statement
+JavaScript warning: https://www.dictionary.com/browse/blah, line 30: unreachable code after return statement
+JavaScript error: https://www.dictionary.com/browse/blah, line 30: SyntaxError: unexpected token: keyword 'try'
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=0&rdn=[RANDOM_NUMBER], line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 23700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: https://cdn-sic.33across.com/1/javascripts/sic.js, line 195: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 23700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543934373169	Marionette	INFO	Stopped listening on port 53821
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543935744071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.gtJsTha5i9Mw"
+1543935747116	Marionette	INFO	Listening on port 52910
+1543935747377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.navigant.com/Scripts/jquery-1.10.2.min.js?ver=636791759931472630, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.icf.com/includes/icf/js/main.min.js?t=1543941214, line 1: TypeError: addthis.layers.refresh is not a function
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://abrtp1-cdn.marketo.com/rtp-api/v1/rtp.js?aid=icfinternationalinc, line 5: TypeError: ai[aF].getTracker(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://misortwd.azurewebsites.net/MISORTWD/scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://misortwd.azurewebsites.net/MISORTWD/scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.power-systems.com/shop/skins/default/scripts/main.js, line 42: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NF78M4X&t=gtm2&cid=2096545570.1543936044, line 104: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NF78M4X&t=gtm2&cid=2096545570.1543936044, line 104: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://irecusa.org/wp-content/themes/IREC/js/jquery.viewports.js, line 25: unreachable code after return statement
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=3&rdn=772, line 11: SecurityError: Permission denied to access property "scrollY" on cross-origin object
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=3&rdn=784, line 11: SecurityError: Permission denied to access property "scrollY" on cross-origin object
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=0&rdn=[RANDOM_NUMBER], line 11: SecurityError: Permission denied to access property "scrollY" on cross-origin object
+JavaScript error: https://cdn-sic.33across.com/1/javascripts/sic.js, line 400: TypeError: c.contentWindow is null
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+[Parent 16832, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16832, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.sandc.com/include/sac/bundle/sac-jslibs-da1be8f974.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sandc1.disqus.com/embed.js, line 35: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.icf.com/includes/icf/js/main.min.js?t=1543941214, line 1: TypeError: addthis.layers.refresh is not a function
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://abrtp1-cdn.marketo.com/rtp-api/v1/rtp.js?aid=icfinternationalinc, line 5: TypeError: ai[aF].getTracker(...) is undefined
+JavaScript warning: http://www.minsteroh.com/sites/www.minsteroh.com/files/js/js_1d761b970407319fbc35b9ab2b3340e3.js, line 2425: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: http://www.pepcoholdings.com/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+1474286593+1662095716+536686153+-222711980+-1030342702+-991739241+-1008700845+-1715660590+-1793043690, line 21: unreachable code after return statement
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://leplb0490.portal.hewitt.com/web/southernco/login, line 5051: TypeError: Liferay.Util.getAttributes is not a function
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.yarotek.com/wp-content/themes/DynamiX/js/waypoints-sticky.min.js?ver=1, line 8: TypeError: t.waypoints is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript error: https://f.vimeocdn.com/p/3.6.1/js/player.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://f.vimeocdn.com/p/3.6.1/js/player.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030813151, line 1: unreachable code after return statement
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030813151, line 1: unreachable code after return statement
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030813151 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.navigant.com/Scripts/jquery-1.10.2.min.js?ver=636791759931472630, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: http://www.dcsystems.com/wp-content/plugins/font/js/jquery.fontPlugin.js?pver=7.5.1&ver=4.9.8, line 352: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/0b2386223401.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/0b2386223401.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://morel-france.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js, line 516: unreachable code after return statement
+JavaScript warning: https://morel-france.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js, line 516: unreachable code after return statement
+JavaScript warning: https://pplweb.mediaroom.com/js/jquery-webdriver.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pplweb.mediaroom.com/js/everything2.js, line 2: Error: Syntax error, unrecognized expression: [href=]
+JavaScript warning: https://pplweb.investorroom.com/js/jquery-webdriver.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.caiso.com/Style%20Library/caiso/js/jquery-1.5.min.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1, line 16: TypeError: 'item' called on an object that does not implement interface NodeList.
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.openadr.org/plugins/system/mtupgrade/mootools.js, line 1734: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: https://www.vectren.com/responsive/js/util.js?v=1541649544388, line 702: unreachable code after return statement
+JavaScript warning: https://www.vectren.com/responsive/js/webchat.js?v=2, line 179: unreachable code after return statement
+JavaScript warning: https://www.vectren.com/responsive/js/webchat.js?v=2, line 179: unreachable code after return statement
+JavaScript warning: http://www.eei.org/about/leadership/Pages/Tempchin.aspx, line 188: unreachable code after return statement
+JavaScript warning: http://www.eei.org/_layouts/sp.ribbon.js?rev=F%2BUEJ66rbXzSvpf7nN69wQ%3D%3D, line 2: unreachable code after return statement
+JavaScript warning: https://www.hawaiianelectric.com/prebuilt/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.masscec.com/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.leidos.com/sites/g/files/zoouby166/files/js/js_eJdKDdlwPwitI8awA5fSqoavaM9JFbWTpUGBvcoGPmo.js, line 4305: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WCT62NT&cid=1361372158.1543937439, line 94: unreachable code after return statement
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21028, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21028, Chrome_ChildThread] WARNING: pipe e[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543940282980	Marionette	INFO	Stopped listening on port 52910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543940659958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.m0OlTAZjMLA5"
+1543940662993	Marionette	INFO	Listening on port 56328
+1543940663246	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 1816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19168[Parent 1816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2551543940773973	Marionette	INFO	Stopped listening on port 56328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543941280593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.aBpy59OMUpui"
+1543941285130	Marionette	INFO	Listening on port 57817
+1543941285653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543941446022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.JeHda9Vbw7RA"
+1543941450132	Marionette	INFO	Listening on port 58146
+1543941450403	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.navigant.com/Scripts/jquery-1.10.2.min.js?ver=636791759931472630, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.icf.com/includes/icf/js/main.min.js?t=1543941214, line 1: TypeError: addthis.layers.refresh is not a function
+JavaScript error: https://abrtp1-cdn.marketo.com/rtp-api/v1/rtp.js?aid=icfinternationalinc, line 5: TypeError: ai[aF].getTracker(...) is undefined
+JavaScript warning: https://misortwd.azurewebsites.net/MISORTWD/scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://misortwd.azurewebsites.net/MISORTWD/scripts/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107437600-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122229156-2, line 147: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://www.power-systems.com/shop/skins/default/scripts/main.js, line 42: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NF78M4X&t=gtm2&cid=2014163041.1543941676, line 104: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-NF78M4X&t=gtm2&cid=2014163041.1543941676, line 104: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://irecusa.org/wp-content/themes/IREC/js/jquery.viewports.js, line 25: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=0&rdn=[RANDOM_NUMBER], line 11: SecurityError: Permission denied to access property "scrollY" on cross-origin object
+JavaScript error: https://route.carambo.la/inimage/getlayer?pid=dctn68&did=112845&wid=0&rdn=[RANDOM_NUMBER], line 11: SecurityError: Permission denied to access property "scrollY" on cross-origin object
+JavaScript error: https://cdn.tynt.com/siab.js, line 13: SecurityError: Permission denied to access property "search" on cross-origin object
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8263629, line 147: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 12564, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.sandc.com/include/sac/bundle/sac-jslibs-da1be8f974.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sandc1.disqus.com/embed.js, line 35: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://www.icf.com/includes/icf/js/main.min.js?t=1543941214, line 1: TypeError: addthis.layers.refresh is not a function
+JavaScript error: https://abrtp1-cdn.marketo.com/rtp-api/v1/rtp.js?aid=icfinternationalinc, line 5: TypeError: ai[aF].getTracker(...) is undefined
+JavaScript warning: http://www.minsteroh.com/sites/www.minsteroh.com/files/js/js_1d761b970407319fbc35b9ab2b3340e3.js, line 2425: unreachable code after return statement
+JavaScript warning: http://www.pepcoholdings.com/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+1474286593+1662095716+536686153+-222711980+-1030342702+-991739241+-1008700845+-1715660590+-1793043690, line 21: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://leplb0490.portal.hewitt.com/web/southernco/login, line 5051: TypeError: Liferay.Util.getAttributes is not a function
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.yarotek.com/wp-content/themes/DynamiX/js/waypoints-sticky.min.js?ver=1, line 8: TypeError: t.waypoints is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-100776492-20, line 147: unreachable code after return statement
+JavaScript error: https://f.vimeocdn.com/p/3.6.1/js/player.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://f.vimeocdn.com/p/3.6.1/js/player.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1591537088, line 1: unreachable code after return statement
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1591537088, line 1: unreachable code after return statement
+JavaScript warning: https://www.myheritage.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1591537088 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.navigant.com/Scripts/jquery-1.10.2.min.js?ver=636791759931472630, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js, line 8: Error: Script error for: platformInit
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js, line 8: Error: Script error for: platformInit
+http://requirejs.org/docs/errors.html#scripterror
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: http://www.dcsystems.com/wp-content/plugins/font/js/jquery.fontPlugin.js?pver=7.5.1&ver=4.9.8, line 352: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071932068, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1036775378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1047776773, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1067361944, line 147: unreachable code after return statement
+JavaScript warning: https://morel-france.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js, line 516: unreachable code after return statement
+JavaScript warning: https://morel-france.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js, line 516: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://pplweb.mediaroom.com/js/jquery-webdriver.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pplweb.mediaroom.com/js/everything2.js, line 2: Error: Syntax error, unrecognized expression: [href=]
+JavaScript warning: https://pplweb.investorroom.com/js/jquery-webdriver.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: http://www.caiso.com/Style%20Library/caiso/js/jquery-1.5.min.js?v=aca43fae-c978-47f9-a40b-ef150d62cde1, line 16: TypeError: 'item' called on an object that does not implement interface NodeList.
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.openadr.org/plugins/system/mtupgrade/mootools.js, line 1734: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript warning: http://www.eei.org/about/leadership/Pages/Tempchin.aspx, line 188: unreachable code after return statement
+JavaScript warning: https://www.snopud.com/site/behavior/search.min.js, line 27: unreachable code after return statement
+JavaScript warning: https://www.snopud.com/site/behavior/search.min.js, line 27: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.hawaiianelectric.com/prebuilt/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.leidos.com/sites/g/files/zoouby166/files/js/js_eJdKDdlwPwitI8awA5fSqoavaM9JFbWTpUGBvcoGPmo.js, line 4305: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WCT62NT&cid=704289482.1543943054, line 94: unreachable code after return statement
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l1543962449650	Marionette	INFO	Stopped listening on port 58146
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
