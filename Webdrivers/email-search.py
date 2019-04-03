@@ -6,6 +6,7 @@ import openpyxl
 import sys
 import os
 
+print('********************* EMAIL - SEARCH  *****************************\nVersion 20181211\n\n Python Syntax: python email-search.py [Excel_worksheet_file_path]\n Exe Syntax: email-search [Excel_worksheet_file_path]')
 if len(sys.argv) > 1:
     excel_dir = sys.argv[1]
 else:
@@ -60,4 +61,6 @@ for i in range (truecount):
     sheet['D'+str(2+i)] = whois(driver, code)
     wait(driver,2)
 wb.save('lookup2.xlsx')
+print('**************************** WORKSHEET CREATED - NOW OPENING ***********************')
 os.startfile('lookup2.xlsx')
+print('Program Complete')
