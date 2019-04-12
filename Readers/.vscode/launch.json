@@ -32,7 +32,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "externalTerminal"
         },
         {
             "name": "Python: Django",

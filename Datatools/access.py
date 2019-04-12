@@ -14,8 +14,17 @@
 
 
 
+##### FIND OUT HOW TO GET APEX ONTO THE CLOUD ####
+
+
+
 import pyodbc
 print(pyodbc.drivers())
-
-# blah = [x for x in pyodbc.drivers() if x.startswith('Microsoft Access Driver')]
-# print(blah)
+# connStr = (
+#     r"DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};"
+#     r"DBQ=C:\\Users\\apiispanen\\Documents\\OA_Project\\ELBA;"
+#     )
+# cnxn = pyodbc.connect(connStr)
+# # conn = pyodbc.connect('DRIVER={SQL Server};UID=user;PWD=password')
+# print(2+2+2+2)
+# conn.close()

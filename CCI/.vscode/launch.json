@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Terminal (external)",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "externalTerminal"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
@@ -17,7 +24,6 @@
             "localRoot": "${workspaceFolder}",
             "remoteRoot": "${workspaceFolder}",
             "port": 3000,
-            "secret": "my_secret",
             "host": "localhost"
         },
         {
@@ -32,7 +38,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "none"
         },
         {
             "name": "Python: Django",

@@ -1,10 +1,11 @@
 import os
+import datetime
 batch_dir = 'C:\\Users\\apiispanen\\Desktop\\SCRIPTS\\Macros'
 real_batch_dir = 'C:\\Users\\apiispanen\\Desktop\\SCRIPTS\\MACRO_BAT'
 read_dir = 'c:\\Users\\apiispanen\\Desktop\\pyscripts\\Readers\\'
 os.chdir('c:\\Transfer\\Scraper')
 with open('c:\\Transfer\\Scraper\\sender.bat', 'w') as file:
-    file.write('TITLE RESCRAPER - THE AFTERNOON CHECKER')
+    file.write('TITLE RESCRAPER - THE AFTERNOON CHECKER '+str(datetime.date.today()))
 
 
 def append_line(line):
@@ -85,7 +86,3 @@ for macro_name in intended_macros:
 
 ########### END COMMENTING OUT ##########
 print(lines_made)
-
-
-
-
