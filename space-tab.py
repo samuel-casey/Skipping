@@ -4,10 +4,14 @@ if len(sys.argv) > 1:
 else:
     print('Please enter file name as argument')
     exit()
+# txt = 'V:\\Op_Avail\\MNE\\2018\\tetco-in.txt'
+main_dir = txt[:txt.rfind('\\')]
 with open(txt) as file:  
         txt = file.read()
 
 txt = txt.splitlines()
+
+# print(txt, main_dir)
 
 
 def append(line, txt):
@@ -38,5 +42,5 @@ for line in txt:
         newline = ''.join(newline)
     else:
         newline = line
-    append(newline+'\n','output.txt')
+    append(newline+'\n',main_dir+'\\output.txt')
 

@@ -17,6 +17,7 @@ for i in range(1,len(reader)):
     directory,f_type,num_files,code = list_item[0].replace('[',''),list_item[1][1:],list_item[2],list_item[3].replace(']','')
     num_files = num_files.split(',')
     # print(directory,f_type,num_files)
+    
     if 'f:\\' not in directory: 
         os.chdir(directory)
         files_of_interest = [f for f in glob.glob(f_type)]

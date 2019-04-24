@@ -20,11 +20,11 @@
 
 import pyodbc
 print(pyodbc.drivers())
-# connStr = (
-#     r"DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};"
-#     r"DBQ=C:\\Users\\apiispanen\\Documents\\OA_Project\\ELBA;"
-#     )
-# cnxn = pyodbc.connect(connStr)
-# # conn = pyodbc.connect('DRIVER={SQL Server};UID=user;PWD=password')
-# print(2+2+2+2)
-# conn.close()
+connStr = (
+    r"DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};"
+    r"DBQ=C:\\Users\\apiispanen\\Documents\\OA_Project\\ELBA;"
+    )
+cnxn = pyodbc.connect(connStr)
+conn = pyodbc.connect('DRIVER={SQL Server};UID=user;PWD=password')
+print(2+2+2+2)
+conn.close()

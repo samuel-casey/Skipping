@@ -10,6 +10,7 @@ os.chdir(directory)
 
 
 read = pd.read_excel("DEL_ID3_0206174421.xls", sheet_name='WorkSheet1', index_col = 3)
+print(read)
 print('1/28/2018' in read, type(read))
 
 # xls = pd.ExcelFile("DEL_ID3_0206174421.xls")
