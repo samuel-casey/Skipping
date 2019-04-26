@@ -13,7 +13,7 @@ def index():
     print(db_function.db_conn())
     result = db_function.view_table('conditions')
     print("**RESULT * * * * - ",result)
-    return result
+    return render_template('index.html', test=result)
 
 
 if __name__ == "__main__":
