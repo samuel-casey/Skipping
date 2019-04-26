@@ -12,7 +12,7 @@ app.config['DEBUG'] = True
 @app.route('/', methods=['GET', 'POST'])
 def index():
     print(db_function.db_conn())
-    result = db_function.view_conditions()
+    result = db_function.view_table('conditions')
     print("**RESULT * * * * - ",result)
     return result
 

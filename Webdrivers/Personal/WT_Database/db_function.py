@@ -48,14 +48,22 @@ def create_db():
 	  condition_category_name varchar(50) NOT NULL,
 	  description varchar(50) NULL); """)
 
-def insert_condition(condition_ID, condition_name, category_ID, description):   
+def insert_condition(condition_ID, condition_name, condition_category_ID, description):   
     string = "INSERT INTO conditions (condition_ID, condition_name, condition_category_ID, description) VALUES ({},'{}',{},'{}')".format(condition_ID,condition_name,category_ID,description)
     print("Executing - - {}".format(string))
     cur.execute(string)
     db.commit()
     return cur .lastrowid
 
-def view_conditions(table):
+def insert_treatment(treatment_ID, treatment_name, treatment_category_ID, description):   
+    string = "INSERT INTO treatments (treatment_ID, treatment_name, treatment_category_ID, description) VALUES ({},'{}',{},'{}')".format(treatment_ID, treatment_name,treatment_category_ID,description)
+    print("Executing - - {}".format(string))
+    cur.execute(string)
+    db.commit()
+    return cur .lastrowid
+
+
+def view_table(table):
     cur = sqlite3.connect(database).cursor()
     query = 'SELECT * FROM {};'.format(table)
     string = ''
@@ -65,4 +73,5 @@ def view_conditions(table):
 
 # create_db()
 # insert_condition(1,"Breast Cancer",1,"Cancer of the breast")
-print(view_conditions('cond_treat'))
+# insert_treatment(1,"Coffee Enemas", 1, "Reverse digestion of coffee.")
+print(view_table('treatments'))
