@@ -47,22 +47,24 @@ def create_db():
 	  condition_category_ID bigint NOT NULL PRIMARY KEY,
 	  condition_category_name varchar(50) NOT NULL,
 	  description varchar(50) NULL); """)
-
 def insert_condition(condition_ID, condition_name, condition_category_ID, description):   
     string = "INSERT INTO conditions (condition_ID, condition_name, condition_category_ID, description) VALUES ({},'{}',{},'{}')".format(condition_ID,condition_name,category_ID,description)
     print("Executing - - {}".format(string))
     cur.execute(string)
     db.commit()
     return cur .lastrowid
-
 def insert_treatment(treatment_ID, treatment_name, treatment_category_ID, description):   
     string = "INSERT INTO treatments (treatment_ID, treatment_name, treatment_category_ID, description) VALUES ({},'{}',{},'{}')".format(treatment_ID, treatment_name,treatment_category_ID,description)
     print("Executing - - {}".format(string))
     cur.execute(string)
     db.commit()
     return cur .lastrowid
-
-
+def insert_relationship(cond_treat_ID, cond_treat_name, treatment_ID, condition_ID):   
+    string = "INSERT INTO cond_treat (cond_treat_ID, cond_treat_name, treatment_ID, condition_ID) VALUES ({},'{}',{},{})".format(cond_treat_ID, cond_treat_name,treatment_ID,condition_ID)
+    print("Executing - - {}".format(string))
+    cur.execute(string)
+    db.commit()
+    return cur .lastrowid
 def view_table(table):
     cur = sqlite3.connect(database).cursor()
     query = 'SELECT * FROM {};'.format(table)
@@ -74,4 +76,5 @@ def view_table(table):
 # create_db()
 # insert_condition(1,"Breast Cancer",1,"Cancer of the breast")
 # insert_treatment(1,"Coffee Enemas", 1, "Reverse digestion of coffee.")
-print(view_table('treatments'))
+# insert_relationship(1,'Coffee Enemas for Breast Cancer',1,1)
+print(view_table('cond_treat'))
