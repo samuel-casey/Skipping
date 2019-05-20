@@ -59,6 +59,7 @@ def list_text(driver, condition, category):
             matched_treatments = new_treatments
             good_url = url
         list_text[url] = text 
+        
     # You can remove the score aspects too after
     return good_url,score,matched_treatments
 
