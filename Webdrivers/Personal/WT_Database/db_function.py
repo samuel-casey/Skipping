@@ -77,4 +77,4 @@ def view_table(table):
 # insert_condition(1,"Breast Cancer",1,"Cancer of the breast")
 # insert_treatment(1,"Coffee Enemas", 1, "Reverse digestion of coffee.")
 # insert_relationship(1,'Coffee Enemas for Breast Cancer',1,1)
-print(view_table('cond_treat'))
+# print(view_table('cond_treat'))

@@ -51,7 +51,7 @@
             "pythonPath": "${config:python.pythonPath}",
             "program": "${file}",
             "cwd": "",
-            "console": "none",
+            "console": "internalConsole",
             "env": {},
             "envFile": "${workspaceRoot}/.env",
             "debugOptions": [
