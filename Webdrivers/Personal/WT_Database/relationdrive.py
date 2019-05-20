@@ -47,19 +47,19 @@ def list_text(driver, condition, category):
     print('Looking for '+category+" for "+condition)
     for i in range(10):
         driver.get("https://duckduckgo.com/?q=best+"+category+"+for+"+condition+"+studies&ia=web")
-        list_text = {}
+        # list_text = {}
         css_selector = '#r1-'+str(i)+'> div > h2 > a.result__a'
         driver.find_element_by_css_selector(css_selector).click()
-        print(i, driver.current_url)
         text = driver.find_element_by_tag_name("body").text.replace('\n',' ')
         url = driver.current_url
         new_score, new_treatments = search_for_treatments(text)
+        print(i, new_score, url)
         if new_score > score:
             score = new_score
             matched_treatments = new_treatments
             good_url = url
-        list_text[url] = text 
-        
+        # list_text[url] = text 
+
     # You can remove the score aspects too after
     return good_url,score,matched_treatments
 
@@ -79,6 +79,7 @@ def list_text(driver, condition, category):
         
 condition = 'lung cancer'
 categories = ['Supplements', 'Alternative Therapies', 'Foods']
+
 results = list_text(driver, condition, categories[0])
 
 print(results)
