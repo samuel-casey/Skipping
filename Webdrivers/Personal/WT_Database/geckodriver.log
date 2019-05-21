@@ -1113,3 +1113,254 @@ JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeErro
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1558463409272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.Mfp49C5dvuYA"
+1558463410456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558463410456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558463412887	Marionette	INFO	Listening on port 50337
+1558463413116	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15752, Chr[Parent 14456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9836, Chrome_ChildThr1558463442744	Marionette	INFO	Stopped listening on port 50337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558463474802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.JCBLi8DbOGLm"
+1558463475311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558463475311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558463477388	Marionette	INFO	Listening on port 50403
+1558463477521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558463477622	Marionette	INFO	Stopped listening on port 50403
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 16824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 1908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 190JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558464039503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.VWqH85jpo6Hr"
+1558464040010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558464040011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558464042150	Marionette	INFO	Listening on port 50547
+1558464042235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558464042364	Marionette	INFO	Stopped listening on port 50547
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 16628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932,[Child 14056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1405JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1624, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558464512712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.kHUvOeLoEEi8"
+1558464513206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558464513206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558464515445	Marionette	INFO	Listening on port 50650
+1558464515980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558464516291	Marionette	INFO	Stopped listening on port 50650
+[Parent 15140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1280, Chrome_ChildThread] WARNING: pipe error: [Child 13708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558464549949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.Fysn3VRefJU1"
+1558464550460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558464550460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558464552644	Marionette	INFO	Listening on port 50691
+1558464552686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558464552832	Marionette	INFO	Stopped listening on port 50691
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16[Child 15084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558464588907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.R51zWnmIonsY"
+1558464589371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558464589371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558464591525	Marionette	INFO	Listening on port 50726
+1558464591640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.shape.com/lifestyle/beauty-style/8-best-foods-skin-conditions, line 26: TypeError: a is undefined
+JavaScript error: https://c.amazon-adsystem.com/aax2/apstag.js, line 2: TypeError: t is undefined
+JavaScript error: https://www.shape.com/lifestyle/beauty-style/8-best-foods-skin-conditions, line 26: TypeError: a is undefined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://cdn.tercept.com/js/trcpt?account_id=TCPT-1551, line 456: unreachable code after return statement
+JavaScript warning: https://static.social.ndtv.com/javascript/jquery.min.js, line 3: unreachable code after return statement
+JavaScript warning: https://static.social.ndtv.com/javascript/Widget/comment/comments-2-0-17.js?v17=5.29, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.tercept.com/js/trcpt?account_id=TCPT-1551, line 456: unreachable code after return statement
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558464637, line 1: TypeError: this[_0x689a(...)] is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/011905091827220/amp4ads-host-v0.js, line 2: TypeError: c.location is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/268143/35745684/xbbe/creative/adj?p=APEucNX6XIFnxGOlCq-2B7mkr4tp7xjpNg651HyGS1lqOdiLXMM6ouQ&d=CkkAoCZ_4MU_uOg2LCSEsOvafpfPeQdGKquSEAh0DxTbk3RfDd5y6RLW0YqdiZ_4Rc8FxApsNPBXDpsoCzVPvflwLbHKWxGvz370EpkRAKAmf-AK7ESPFlDp1oof8EtBA_CZgpeXPxX0zs02e7rRc71HZgJXuR96OnzWR6_ZgcISIfLkqv3YzG6tPoDDC9p5p34EjTmm-cgqk4sz_EVlM4oZ9Gj_dyM7U4dhbgXgF_UjBBehzlcZr6lEudklWZOBMHTD3IbZfLrOlvQ68SXgJZ-6bBRi7O8ttE3Akhv-QLElZF5UjYdcjLhkCunlrFYnAjKWLMYyFejA15xvslTeiKLjxDwMzaFpQ_qcEWCQTxJ8vZwJvQn5ynguIFZjqJd4P1TdNFIktbDGpF2jCzJ_RuKPe_HDjop6UcWlrOugJNDNbzyH6wq1CutWtLVdVdy1kVGei5ItjtfUTZPZM1hbZr9qXottrVG0XWVHngSPd-cwce_vFZtYK4IIf2OYyDfjLtoJVud9AEkLfIsYrvg9BvnxLVizk4sQMbk9X8PYhct_cgK7YSlmozRg8GFKYQFhqyuf1IWmYyP1NIl8kAedn3QuEyZPIV8CTfPJUYIbs4kpoyYLkK1j2LDHNLZwIqOJiNlCqemTwrKQ-chcbn3eeqvAopkc2opwVKxwnYzP27aYZlMJYOGIgg97bQaiDynB1KMp23fO-BrZ901rcqj1yq8BOYIyMQVzk7YISGsxGoA3G8zMn5m4bVg223_BxD3DMUg-P3uW-IwmJegJU2ynpZYsBzO_61h9GHT3MjQETyycOX5qcoaoSkH401-HS6913mNbreKFJ0_uVPt0Hb1IxYhvSOHKl_om5yk_8d2Zzxm2V83Jt0EF7TBRGrVZpiAw-4qrLB4WM7G6THGIffVxVrFUJ0XoFg0l0XL20NGUJdVN2sMQ-3Ww6qdShRuVLY_nq7qgAnuHCv3yuYaXBQyQgVREHLlE53ZrREfRF2_Rkdl2TxOroxt8aQFvTsJLowfWmg9MyRtNu9GhceNXUVXwQJgo8-vhVelHDY-vRuih_Yvo3nE8fd4-uOktBSpL6g2PrHvn-tFPRD11fNLJ_cVdnMUYyfGeYSfJGbMNCNR77gSUBvOo9h7ti-noekEImuY9zfkAmm9igQNz5h0wOIDu3mEIYvKH3akX8TDSuHMCgitnirDRQsD1knkAOSWVJjO_Qixrl_FBZxzQlxnjKGClpCoRW4espkdxiAZCNWGcNgBFHSnp2hkSiodUsDN9ritHZvpQrFPavYBa4vnrgOfRGrxCA0ZFmHBu_d0lXBIn-fc87KpZjrSyIL3XAOjNHCUwYUHNTiiHsLujl0-Ebv87lg4J1NSn1MAaTt_FxBxvAZwSuoHtiuxfIBGIsxGqdnZwEE1WovGvI74owBNTnHnP6LldUhG9QVMwiJG6RI_OjLbyfL2h0iJuPWSGcMLtKZlHbPlmB1K10gHsYPEDs2WONEa7TjwA5HGEj4ycAZw7JNwqSgdb4gCUC-RGZtlFeKp6GmQv1uOKl3kuQ1d78JsFpVdd8xiT3ulUXu4lGERH5oOXhLOZhDncwbsbO4dSN-eOJkRS1LqbNrhRnBFTVpj9gez86kTxJ8TRlJSG1mCE2NnuFdGmDjQ26kQvNm8KY-XuCynHiNxh9EolCm6K2XKL_QJx4DqSSqYXX9tCiC_FG6A-sBAonSA9DmfDlL_FpmwFyMke9owwp_4FHWdcRY7lbTie-pyKWVF0HTm6uahvf1ARwiX5t3LKdw8EUwmi_J6AKaPDttq9irvQt4vuopKkCHe7V87p_jAAyHAMDrzXh4e6huFsZco1DyA0B56jg4BwsXWBhE4fSfYPc3KGBgvQ-fbt-e0vXP6ZJfXgWt1Ii1BH7PcTihTYHwBYQ4VE7yGH_KyjyhwJwG_kEjap-IT2MkVELx0NdSskq0ig4VPKmQRuFadUJ-H0it6tGPUTZewYoRhR7q3kXAlczDLFP3Cvo71B5WXdRqrjWKTBJZRey0CGVuDYEsAKCV3BshvOeDExJKIJXObySkQOGOYPq7zy2TlW_i0yj_uBJ-M-Ve1AXmZSnsvBtbbnM9GIHtUzg63WWhWRK9xAfHUp9xTUkf_nHIescj7EJnzxvybRwVd9b1NmfQHKagK9h9uR-1ehydBofpUzNciB3v1oeHjgtO9h5r0kLpAcC0tQKfrhqsILOiblokkUNRWbiUYDAvyqppEgR3eaIE4J-dTgbEAhaMxl5cMWRxDaE-oTKpCWRYg-bM6DfjQ1Z4-ebpcT5CBqHY0qmiN_CFXDcIU7AHEzIbzQA3CGAdJ00hlCNNtNzOvnhWbcy9aUeHS8JPbJttu3itt-GxcPyrJWnEnd2mPKkjy9eAwhcZKKgfR9dFuIorgCIbAx9rjjPmHyEswCklO2BnUkzq0zRVyClMYpOFb0C32IJmFz60CaGOtzRdxk2ThhnVZ0tWU4RhJEEzn8PW8hdvkQRCuYwRCtmR2N_qRq_lIeqqku8sEqW0lxEOESlVqzYOukSTlpP17M8Dfap3UcvAxZuuNUa706bDK8QA9hOojQkSjmdPedJgT0lbosrjOkLWfj2Qf9nL74U50V-UOZ7Fv5XisSmFKmwav_CZdDREm7j5n2kpytwM10zuqzMr-O1_9L1yy3YxX7Bs5pFdIxY7XPklfk5Ko3HNWTHJUmD6G39wxze6XbFHwzbUGB0jVX7tnys_u9lXG4CH9qnvC7_EbGpbLo4V6su57VzS4hlFA7v1xJB7ClsFDxWyHRiXSO7g52inG-Wxe9XzSN4-a2OcPhYbSp0C03H5Vu9J2aJegmm0H3Eghbo7gvkMRsjIBEyjUdvk7Xgu6EZ44XcF-e7KOYWB7aNpuO6QYU5bS0u_H3lWbGjdn0zc8w09h2zL09yRsDb-yRmmANmJnyulHWgaQ3YJTFSMfGaQYbQI5ZdmU-Ud3wOaLTNCmNHEuBft-HqZ6OqMp5wCCyUR9MVHbYvvIkKlPACH-K8SsoI_QTUCZQVVEKdTvEkroaFggAEhLkaCUKSqEjMraNfWBPsb5vxcxgAQ, line 883: NS_ERROR_FAILURE: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/263087/34818487/dcm/dcmads.js, line 910: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 15648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13061558464692549	Marionette	INFO	Stopped listening on port 50726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10220,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558464696181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.YTmTuoAmXBkF"
+1558464697134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558464697134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558464699301	Marionette	INFO	Listening on port 57920
+1558464699407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/webmd.sticky/2/webmd.sticky.js, line 3: TypeError: this.$blank is undefined
+JavaScript error: https://www.webmd.com/a-to-z-guides/adhesion-general-post-surgery#1, line 2: SyntaxError: expected expression, got '}'
+JavaScript error: https://www.webmd.com/a-to-z-guides/adhesion-general-post-surgery#1, line 2: SyntaxError: expected expression, got '}'
+JavaScript error: https://contextual.media.net/nmedianet.js?cid=8CU12LGKP, line 1: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://medlineplus.gov/jslib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558464782, line 1: TypeError: this[_0x689a(...)] is undefined
+[Child 12692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12692, ChromIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deseri1558464924652	Marionette	INFO	Listening on port 56494
+1558464925120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/webmd.sticky/2/webmd.sticky.js, line 3: TypeError: this.$blank is undefined
+JavaScript error: https://www.webmd.com/a-to-z-guides/adhesion-general-post-surgery#1, line 2: SyntaxError: expected expression, got '}'
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 13404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://medlineplus.gov/jslib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558465052, line 1: TypeError: this[_0x3474(...)] is undefined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/268143/35745684/xbbe/creative/adj?p=APEucNX6XIFnxGOlCq-2B7mkr4tp7xjpNg651HyGS1lqOdiLXMM6ouQ&d=CkkAoCZ_4MwEc_hZ8Re9oW5cE9nUGiujwoQcLp-_cYVPBnMmJHb5BDbB2USMPh49hFkZM2Zkb9QMjNdjn8LrCuopdMGXxH-YNfZ2EokNAKAmf-BkWTjJMiS3cScU2gKBIsv-aNtJIs6YtWrVVm-ALbg93TRQolx8tdUcmidMMrx41D9msrx2QqFpDM99WGcCvmz4k4lvB38BdNvzBFlyyyNJ_-kOuope61ahVsB5b0660bKcsBSd5zXrPYM9nb66243WJ1Nai9wKWSMh_buh4URy7xWQeHSv5jWk2umplBVigMecfvO9UwAcXYXH1QbqBzgpfBYlRRlxMxUjwTye3W82jOc_rCznIFnksL7L2smxZXp1vXavS1emKcQAjMWjFOcZsxVDEqtMN-aIlik8cOFd-ZtmrtJLT8ofNTGydSsJ4jPJMi-ZI241meHs3FK9eTLfz9fnc5ltXcoJMQhPLEJ9dnOA5bqKhtOeu1fr9KnKqreuBtQuMgSYhuk7XAicu7vA6xdAy_aVSh1rj1vEqNTK0CDxwEgSevOsNN5Z79xScNqFLBJz5YCFdRKqe7372NeDlWWG2DcR7ldaDAcBXu7yNEtkzG7XigLrVRZS8a0baqRs1Mn5lN8kxEdiXLw_Fs06kHYaHV1gXq6viKqa01AVqRIbB6bsu1104KckaglmtyO2GOMBMYA07FYcCgTPHMqfL_jFrBemnCWkYEpvtZ_-_k5GqsASMvcoWB9qhMZOdsIhSTKf7oIk-tSuTFSwPqXmm8_Ibo8RE-UgZk0cLxjnjCcZvSKjjH8pT1XaGUZ6-jm5Y7ksYVqDWpP-42u6jR2VGwgBt26U6RW_Q-QWC5as0GDQ4a4CFXGGQ5rZCA5G16ocXdlTY-8TK0G45y5nxvICg0SyiBS6nLqofZFJrJy0QvJ5ofjm5CMZA79b4zdRs59zMJjHaCKHKN1EnWa1yGI8j7KBqFUzJfo-2HLrEWRGMpSwBbJVb2-VxngIHkHW0QTDxpsws8QIusEYhgOvoxSjGe-vZ636fCOa2_wEvHihkg-Rabuw__U1bqMu0gEA18UAXYfOmHR6K-YM3d19RdBJolbo3rUcJJRi8oMYFklEaxBuhF3_ufPCj5dFj7bgiOt1Fc-7TdshtJRT25YMAR_gwlQ-4SpiL__Dyq7CsSaBgwPyGL8yIQCFUAIzeu95n6nmCnCn_0Qzd_EWS0mME-ncPjfwlM1K8ydHh-YRdJnnQZZxrOM_uEz9MAwjZwDZI_0WcXXlNMTFurb0IGfPenPk0flb7k7JgQplBumMe2_494VRSwuHGU1NzB53b6O61K1qNgk0ev8Z7n4ePkiTonTIQvbhY4gAJHcggeA4HUXUxGRNm4VBkuXxum7K-sHR9PfiEcrbt7w6Ls6zZgORbgqf6hXMwPVpLLOMlpE9NSFUXq3zwmUKoZ6ANYku_-bldKy0-wOS4eeFQ7YSDycFq9IfHYvV2vYleyL5K6WZ8Qp6laRot-MGUUZb5xyr10JZIGWFQYE2jaV7riI8jO37RL4oivT3gs5Qb4J-I0VuOpVoMh74jo1ITD2X-xiF0tNQoWOApCsydwLvWDOKWyFoIICTX8V3UdKGREF-m3vUbkhFHNbt-XMW8PYvSvpdnkB0sxqc6vUbqi8HPUwpgnWj_2pai4L4Y3EB96X2lF4EkMc3vIFpkyQufZEeiofa92XQyL5H9l-ZqIt6_p2DiQvPs12BVySXJYSSFNSkxjwwQ2dkzgmVu4tI2wT_YMx0fnXJ-pW4hbu19gJPOZ_CGjBnuJZg9OrHNdSShCbO_uNodJU4xeziOQEvXLRNlNXN8Y1H2tvWCtLi19VRUYdUITaejjjh3K-gWM970cR_kV-aQrMEI17Doy5z1JWMAqTRvhuRMySwQPkZ4hF6ml-QdKokae1SZjh5gyM7b7htudLKKUHSqyaTFQmciuqdpVLOd4mCnaJwt90kfwl7qRtt_YYYGhtvIOLNox618T-1zAV6xQAr_fjWC09-8uNJlA1xesY0fLqlsNEGyIZ0iSFZqZ3BRlD-jCC8F16w-hftTIdMFnntyn2nd_ecue_Gx2rXiSCS7K4hyYHsyS4xrgvp0rEAUlFiLKa9tg7szs4D2mDsefSagWb_HBnz40NPY0twwwc773ni24EZtYBZixOJNWhP9KYtyV0-W7LG2fZYqhL-rCN2V4BsjnbeXvJQ-NTapPq4prck8sHdYhDXPo9UeWiRV5z94EFHfYW1WTJWbYstOxNy8WoKvnIQINK51eNM8CwxQTfkWQs4RKXodzXNU1JqvW6ZDP0mSbk2pjQwzU14EUPa4oAM3nsaFggAEhLkaEY5mWD1CSPYc65-RcsLNzRgAQ, line 883: NS_ERROR_FAILURE: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/228864/32046004/xbbe/creative/adj?p=APEucNXTjFBVoi4tozhXTx-y9jeWe-iyquv0VY9H3osKWfYrjmRqjKo&d=CkkAoCZ_4OrQg7acp7EeDbu_DLWKvzhBVrXYRTp5l3vdjIMJNjGtVa4xFBhcAuvQZsBF1c_tC1mwt6IKmUXYFobDOPBbCKdfWx1OEtkMAKAmf-APSCwrY56fxvewjxD4VKdiVuxGtdg4ESKg2y62GBC8dZ_Ec58eXHF9LG-mIrMofZUk1W8THgGYiqqoIIf_RKEImHLZKLiZwac4HKKhdx0OwoL2Q0ODmdngIvneVxZK1cGVQ_n92pfclJ_J2FufNB9xN-sg-fFwoDzMlzcyfnLO05bOXSqkgFmFxPksGGawvrIUYu7JtNc6DEv6Bj7krZLgkWz6NYzCUBZfX-H-WQLUTpDP3MKXj_eZJm5nrijJtj7CTiqFTjm7EUxydRl7IJ6SalrrOAtrvuchdgldBXf7sjIwZTo7W8TZ8p5MPuiWgHPJMCI2B2j2-HIzfyfLxzRUbfSFd-h0-pIeEfq9RcoTN3ZlD-4e4CwFJMnuUVgnGMvO-3ghw7w94InFVq0vTvhdcOvoCnPLLfq23-PE7d5d6fRVlFEGSf7yk9RRwm6ENYhU_XrdCwG4KhnqLQ4yeAB5hsnfhtS7E4C6AhuF4BlQGSVBtHzw2gCIrfT7MAcSrotVXDGkvGGytxuPkz5A73ypaN8mNbupuLhWslPPP5o9Qx55mG3J35x_YVCDvn8Oi1quSu6rMy2-cMoczUbG6epcXP98lFDpvtvHC53C6KkIJAnL8TNwFiWkMNtOvFvyZVZkdDzWy-XsX_c5K971Hkat0_GbiVt5N4_9f_e5-sW_yLZryNM7VTuVXfiI2FMt38Fsf0eVL8LJh-nysw5kq2NBNvzLFj66rqBPsjoYCPRxmQ9ebL2je73gBR5lod7G85YqByinvuv7YmBDk_wgQGRDBkBbSgLhpd8uAFHcXhDVpv8STLACk3l6nIwGn2CReSE4BrajF0uFDGPswNY7cuueWKMB2Zp3fG8PPe304l8x-3IDAx0kU_0cBBJQzgvNkcwrGC7wFWBaB5tbuS1SqftqkLdt2Lja-zUGf2dK8KtoirltsCfqSpUvFOSsGwRYzv3Hl2iTECEITqZU7iAgI-JPaDmkdgy6EYndPYFKvEZQ20kY9OSD52kiRJqz_aDsjv4m4kKE6sLVlVKDCXgq3IgY6hHTIsvOYdMDUpBotopx4oBzh-lK0JF_0OhnA3CLaO8yDaOCSdiKdlks5bQSx7JdjGRkA7Y7QkZWM2x3unFvpzZSRF8GY8_r1QfmT-UJtY7kRpe-HCLRFhovvCsY67QjWlDhNl-xuIMTWv-JQELRHOYP9CfFVeQQQft5Ix6lc7XkaoUXxD0zodBlvIlRq46td-t44x5_lxQEHLg6r2kOuHtjFgPojZq9-ALGBu9GDlV5g7pjBUNZ-k6lcKM8C6dTLA4AgL_gt84M6Q0V-d4zvdl7FVidH-MKwYeBqQJ_ujEddexZ5tJ4folQvNpo2s5SsgF15_JPTeDBsoxXrtRHurogLs14THfONHbHaXNyg6jqNlwCiBBvcFqZpKWR4NzGkcbDkhr150t0ETSCqBkSekvGJE6_5QRb_VAq4StGeFEAdmvLhFA6T1zDsPQHU38isZonvpMeHeZzfEv4OBBa_WXTejWm2OvTFscksodk60Kw5QHDofhbGh_mq6vm_YhvbFcjJtLMXWYKC4JEdySAmevzJZQiSk-eM0-moTvtEyMu8FlrI0KHqHgTNhMHPMtbfxLql9wisH0FNW66QI_JLQpNNwQOROrabreVsh8exwIJWYtACuRtX4Uustj5WYUubx5bCBjawKtPdj6KsNnsPdAiWGRA7WkSeh2O3oINwybW1P0WkZV1hhs4UMKVt0mOcaY_hYUBR1LtsxmhMHHMuRnFRfPlcizoxCFgeEcoinbXwN2L6P964SemuOtz3Fwumwqzh0ldsFp02PUsoo8GUTxnfLsIs2amXeyV3bPGsRAInb1ZG_FiDrYNEUStOEdstkWeFRmaohohSdhNUbhwK1iY49BglWL5r2R8GJNio_WmyqhHr_kO9slhZlqM4Fb3gWYFNJX444HX9cNQQxQIZ8dkgmywZVya0PW3N6WXnIseZP1_dPNKBmNuIXaYnQbeFsGTvJnB8J0ulYE9M4miP7PnEj77oYcRylL6G3eN9ZM0kbu4rF7bQWcHvAASCvoW7hdqVNcj49qo7N8v09kEmNMcmOQmNvqRcnnDFesZmUeN2oDfSUgPl7PZECR6pyoiEnf1z5UuwOiKCdjewyGRPQaJfhEaFggAEhLkaBjWiLpkg_vj9F3Av6e_6HpgAQ, line 883: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 13404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 2872, Ch8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chro1558466620544	Marionette	INFO	Stopped listening on port 56494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/webmd.sticky/2/webmd.sticky.js, line 3: TypeError: this.$blank is undefined
+JavaScript error: https://www.webmd.com/a-to-z-guides/adhesion-general-post-surgery#1, line 2: SyntaxError: expected expression, got '}'
+JavaScript error: https://static.adsafeprotected.com/main.17.4.184.js, line 88: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://medlineplus.gov/jslib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558465380, line 1: TypeError: this.cookies is undefined
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.biomediclabs.com/scar-tissue-adhesions/, line 9: ReferenceError: NotifySnack is not defined
+JavaScript error: http://www.greenmedinfo.com/sites/all/themes/wilderness/script.js?j, line 113: TypeError: elements[i].className.search is not a function
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4105668/4065628.js, line 539: unreachable code after return statement
+JavaScript error: https://www.healthtap.com/feelGood/compiled_js/layout_guest.min.js?1547148715, line 16: TypeError: $(...).timeline is not a function
+JavaScript error: https://health.clevelandclinic.org/4-best-ways-to-take-control-of-abdominal-adhesions/, line 1: TypeError: $ is not a function
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://healthfully.com/1011994-alternative-medicine-ibs.html, line 331: ReferenceError: googletag is not defined
+JavaScript error: https://healthfully.com/scripts/custom.js, line 152: ReferenceError: googletag is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/011905091827220/amp4ads-v0.js, line 307: NS_ERROR_FAILURE: 
+JavaScript error: http://www.clearpassage.com/wp-content/themes/clearpassage/js/session-0.4.min.js?ver=0.4, line 8: TypeError: e is null
+JavaScript error: https://www.biomediclabs.com/scar-tissue-adhesions/, line 9: ReferenceError: NotifySnack is not defined
+[Parent 13636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558466615850	Marionette	INFO	Stopped listening on port 56817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558466627893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.I4TzqX5RVOC7"
+1558466628961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558466628961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558466631719	Marionette	INFO	Listening on port 53134
+1558466631735	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[l_win.cc, line 346Chil
+d 5316, Chrome_ChildThread] WARNING: p[ipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.Cchild 13572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346c
+, line 346
+[Child 5316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558466766223	Marionette	INFO	Stopped listening on port 53134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9308, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 346
+1558466755274	Marionette	INFO	Stopped listening on port 53179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558466766551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\APIISP~1\\AppData\\Local\\Temp\\rust_mozprofile.VaVYgscsDyTV"
+1558466767257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1558466767257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1558466770443	Marionette	INFO	Listening on port 53223
+1558466770931	Marionette	WARN	TLS certificate errors will be ignored for this session
