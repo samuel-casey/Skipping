@@ -1364,3 +1364,37 @@ d 5316, Chrome_ChildThread] WARNING: p[ipe error: 109: file z:/build/build/src/i
 1558466767257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
 1558466770443	Marionette	INFO	Listening on port 53223
 1558466770931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/amd_modules/webmd.sticky/2/webmd.sticky.js, line 3: TypeError: this.$blank is undefined
+JavaScript warning: https://medlineplus.gov/jslib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558466845, line 1: TypeError: this[_0x4ffd(...)] is undefined
+JavaScript error: https://js.trendmd.com/trendmd.min.js, line 1: TypeError: e is undefined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1556733422, line 4: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.biomediclabs.com/scar-tissue-adhesions/, line 9: ReferenceError: NotifySnack is not defined
+JavaScript error: http://www.greenmedinfo.com/sites/all/themes/wilderness/script.js?j, line 113: TypeError: elements[i].className.search is not a function
+JavaScript warning: https://static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4105668/4065628.js, line 539: unreachable code after return statement
+JavaScript error: https://www.healthtap.com/feelGood/compiled_js/layout_guest.min.js?1547148715, line 16: TypeError: $(...).timeline is not a function
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://healthfully.com/1011994-alternative-medicine-ibs.html, line 331: ReferenceError: googletag is not defined
+JavaScript error: https://healthfully.com/scripts/custom.js, line 152: ReferenceError: googletag is not defined
+JavaScript error: http://www.clearpassage.com/wp-content/themes/clearpassage/js/session-0.4.min.js?ver=0.4, line 8: TypeError: e is null
+JavaScript error: https://www.biomediclabs.com/scar-tissue-adhesions/, line 9: ReferenceError: NotifySnack is not defined
+JavaScript error: https://www.medtargetsystem.com/js/build/portal_lite.js?1558467034, line 1: TypeError: this[_0x689a(...)] is undefined
+JavaScript warning: https://betterhealthkare.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/front/js/launch-premium.js?ver=e1fa6290f0a9e641358734cd1d90aaf8, line 266: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/01e18b43/shrMain.min.js, line 5: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/01e18b43/shrMain.min.js, line 9: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/01e18b43/shrMain.min.js, line 5: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/01e18b43/shrMain.min.js, line 9: SecurityError: Permission denied to access property "document" on cross-origin object

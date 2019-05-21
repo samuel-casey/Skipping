@@ -12,7 +12,6 @@ def open_and_run(conditions_list_location = 'conditions.csv', treatment_list_loc
     
     #### STEP 3 - Iterate over Condition and Category
     for condition in condition_list:
-        print(condition, condition_list)
         for Category in treatment_categories:
             url, score, matched_treatments = relationdrive.list_text(relationdrive.driver, condition, Category)
             define.enter_record(matched_treatments, condition, Category, score, url)
