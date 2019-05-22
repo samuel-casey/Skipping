@@ -40,49 +40,28 @@ def list_text(driver, condition, category):
     score, matched_treatments, good_url = 0 , [], ''
     print('Looking for '+category+" for "+condition)
     for i in range(10):
-        driver.get("https://duckduckgo.com/?q=best+"+category+"+for+"+condition+"+research&ia=web")
-        # list_text = {}
-        css_selector = '#r1-'+str(i)+'> div > h2 > a.result__a'
-        driver.find_element_by_css_selector(css_selector).click()
         try:
+            driver.get("https://duckduckgo.com/?q=Research+in+"+category+"+for+"+condition+"&ia=web")
+            # list_text = {}
+            css_selector = '#r1-'+str(i)+'> div > h2 > a.result__a'
+            driver.find_element_by_css_selector(css_selector).click()
             text = driver.find_element_by_tag_name("body").text.replace('\n',' ')
+            url = driver.current_url
+            new_score, new_treatments = search_for_treatments(text)
+            print(i, new_score, url)
+            if new_score > score:
+                score = new_score
+                matched_treatments = new_treatments
+                good_url = url
         except:
-            if text not in locals():
-                text = ''
-        url = driver.current_url
-        new_score, new_treatments = search_for_treatments(text)
-        print(i, new_score, url)
-        if new_score > score:
-            score = new_score
-            matched_treatments = new_treatments
-            good_url = url
-        # list_text[url] = text 
+            continue
 
     # You can remove the score aspects too after
     return good_url,score,matched_treatments
 
     #### NOW THAT WE HAVE THE TEXTS, TIME TO MATCH THEM TOGETHER ###  
    
-   
-    # with open('search-results.py', 'w') as file:
-    #         writer = file.write(str(list_text))
-
 # -	Review first 10 sources
 # -	See if there’s a match between our supplement list & what’s on each webpage
 # -	Qualitatively check/ validate
 
-
-
-# results = list_text(driver, condition, categories[0])
-
-
-
-# print(list_text(driver, condition, categories[0]))
-
-# for item in list_treatments(driver, condition, categories[0]):
-#     score, matches = search_for_treatments(raw_text, treatment_list)
-
-
-# 2 - Take Bullets 
-# 3 Match Treatments w/ ID
-# 4 Add to treat_cond
