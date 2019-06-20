@@ -8,7 +8,7 @@ def search_for_treatments(text):
 
     ###  Establish Treatment List
     with open('treatments.csv', newline='') as csvfile:
-        treatment_reader = csv.reader(csvfile)
+        treatment_reader = csv.reader(csvfile) 
         treatment_list = [row[0].lower() for row in treatment_reader]
 
     ## Iterate over treatments to find how many exist in the text:

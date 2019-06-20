@@ -1,20 +1,19 @@
-import relationdrive, define
+import define
 
 def open_and_run(conditions_list_location = 'conditions.csv', treatment_list_location = 'treatments.csv', output_location = "output.csv" ):
     define.clear_file()  #  IF YOU'D LIKE TO CLEAR THE OUTPUT FILE 
-    
+    print("file cleared")
     ## STEP 1 - Define the variables needed ###
     treatment_categories = ['Food and Drinks','Supplements', 'Alternative Therapies']
     
     #### STEP 2  - Get Conditions ####
-    condition_list = define.get_conditions_list(conditions_list_location)[200:300]
-    '''First stage - Up to 100 - Ran on 5-21-2019''' 
-    '''Second stage - 101 to 200 - Ran on 5-22-2019 9:30am ended 4:10pm ''' 
-    '''Third  stage - 201 to 300 - Ran on 5-22-2019 4:22pm ''' 
-    
+    condition_list = define.get_conditions_list(conditions_list_location)[:200]
+    print(len(condition_list))
+    '''First stage - Up to 200 - Ran on 5-21-2019''' 
     
     #### STEP 3 - Iterate over Condition and Category
     i = 0
+    print("Looking for conditions")
     for condition in condition_list:
         i+=1
         print("### CONDITION NUMBER "+str(i)+"  ### ")

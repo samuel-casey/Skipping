@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.support.ui import WebDriverWait
-import wkhtmltopdf
+# import wkhtmltopdf
 # import datetime
 # import time
 # from datetime import datetime, timedelta
@@ -37,7 +37,7 @@ for i in range(loop):
     wait(driver, 5)
     url = driver.current_url
     # pdfkit.from_url(url, '')
-    wkhtmltopdf.wkhtmltopdf(url=url, output_file='C:\\Users\\apiispanen\\Documents\\Scraper\\out.pdf')
+    # wkhtmltopdf.wkhtmltopdf(url=url, output_file='C:\\Users\\apiispanen\\Documents\\Scraper\\out.pdf')
 driver.close()
 
 # def gen_days( year ):
