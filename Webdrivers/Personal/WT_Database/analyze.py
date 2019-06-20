@@ -16,8 +16,8 @@ def is_sentence_good(sentence):
     print("Bad word score :"+str(bad_word_score))
     file.close()
     return good_word_score >= bad_word_score
-token_text = nltk.sent_tokenize(text.lower())
-print(is_sentence_good (text))
+print(is_sentence_good(text))
+# token_text = nltk.sent_tokenize(text.lower())
 # for sentence in token_text:
 #     if treatment in sentence:
 #         print(sentence, is_sentence_good(sentence))
