@@ -24,10 +24,10 @@ print('********************* T_C Relationship Maker ****************************
 
 treatment_categories = ['supplements', 'food and drinks','alternative therapies']
 condition_dict = get_conditions_dict()
-
+treatment_list = get_treatment_list()
 ######### ITERATOR FOR SEARCH RESULTS ######
 
-def generate_search_output(driver, treatment_category, condition, condition_category, output = 'output.csv'):
+def generate_search_output(driver, treatment_category, condition, condition_category, treatment_list, output = 'output.csv'):
     def wait(driver, seconds):
         print('Waiting '+str(seconds)+" seconds . . .")
         driver.implicitly_wait(seconds)
@@ -60,7 +60,6 @@ def generate_search_output(driver, treatment_category, condition, condition_cate
         try:
             if not failure: 
                 text = driver.find_element_by_tag_name("body").text.replace('\n',' ')
-                treatment_list = get_treatment_list()
                 viable_treatments = return_viable_treatments(text,treatment_list)
                 url = driver.current_url 
                 print(str(i)+": "+url, viable_treatments)
@@ -74,13 +73,13 @@ driver = driver_initialize()
 for condition in condition_dict:
     condition_category = condition_dict[condition]
     for treatment_category in treatment_categories:
-        generate_search_output(driver, treatment_category, condition, condition_category)
+        generate_search_output(driver, treatment_category, condition, condition_category, treatment_list)
         iteration += 1
-        if iteration > 200:
+        if iteration > 50:
             iteration = 0
             two_hund += 1
             try:
-                send_email('appiispanen@gmail.com','Server has reached '+str(two_hund*200), 'hey Drew,\n Your scraping iteration has gone \n'+str(two_hund*200)+'\n times. Currently on '+condition+'.\n Good luck!')
+                send_email('appiispanen@gmail.com','Server has reached '+str(two_hund*50), 'hey Drew,\n Your scraping iteration has gone \n'+str(two_hund*50)+'\n times. Currently on '+condition+'.\n Good luck!')
             except:
                 print("############################# E M A I L  F A I L E D. #############################")
 ######## ONCE COMPLETE, PLEASE GO TO OUTPUT.CSV IN LOCAL DRIVE. HAVE FUN ##########
