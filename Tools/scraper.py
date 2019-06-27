@@ -42,19 +42,19 @@ def enter_record(results, url, output = "scraper_output.csv"):
         for result in results:
             file.write(result+","+url+'\n')   
     file.close()
-def try_to_click(driver, css_selector, five_sec_retries = 10, i=0):
+def try_to_click(driver, css_selector):
     def scroll_to_bottom(driver):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     try:
         driver.find_element_by_css_selector(css_selector).click()
         print('!clicked!')
+        return True
     except:
         scroll_to_bottom(driver)
-        wait(driver, 5)
-        if i > five_sec_retries:
-            print("######## ERROR - COULD NOT LOCATE ELEMENT"+css_selector+" #####")
-            return None
-        else:
-            print("couldn't locate element "+css_selector+" will try again "+str(i))
-            i+=1
-            try_to_click(driver, css_selector, five_sec_retries=five_sec_retries, i=i)
+        wait(driver, 2)
+        print("######## ERROR - COULD NOT LOCATE ELEMENT"+css_selector+" #####")
+        return False
+        
+def duck_duck_scroll(driver):
+    driver.find_element_by_css_selector('.dropdown--settings > a:nth-child(1)').click()
+    driver.find_element_by_css_selector('div.settings-dropdown--section:nth-child(2) > div:nth-child(3) > div:nth-child(1) > label:nth-child(2)').click()
