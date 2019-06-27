@@ -40,7 +40,6 @@ def get_treatment_list():
         treatment_list = [row[0].lower() for row in reader(csvfile)]
         return treatment_list
 def get_conditions_dict():
-
     with open('conditions.csv', newline='') as csvfile:
         conditions_dict = {row[0].lower():row[1].lower() for row in reader(csvfile)}
         return conditions_dict

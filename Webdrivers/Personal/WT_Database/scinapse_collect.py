@@ -25,6 +25,8 @@ print('********************* T_C Relationship Maker ****************************
 treatment_categories = ['supplements', 'food and drinks','alternative therapies']
 condition_dict = get_conditions_dict()
 treatment_list = get_treatment_list()
+
+
 ######### ITERATOR FOR SEARCH RESULTS ######
 
 def generate_search_output(driver, treatment_category, condition, condition_category, treatment_list, output = 'output.csv'):
@@ -66,15 +68,22 @@ def generate_search_output(driver, treatment_category, condition, condition_cate
                 enter_record(viable_treatments, url, condition_category, condition, output=output)
         except:
             print("something failed with the text")
-iteration, two_hund = 0, 0
-driver = driver_initialize()
 
+### IGNORE THIS FOR NOW ###
+iteration, two_hund = 0, 0
+####
+
+
+driver = driver_initialize()
 ###### THIS IS THE MAIN LOOOPPPPPP #########
 for condition in condition_dict:
     condition_category = condition_dict[condition]
     for treatment_category in treatment_categories:
         generate_search_output(driver, treatment_category, condition, condition_category, treatment_list)
         iteration += 1
+#####       MAIN LOOP OVER         #########
+
+        #### IGNORE BELOW FOR NOW ###
         if iteration > 50:
             iteration = 0
             two_hund += 1
@@ -82,4 +91,7 @@ for condition in condition_dict:
                 send_email('appiispanen@gmail.com','Server has reached '+str(two_hund*50), 'hey Drew,\n Your scraping iteration has gone \n'+str(two_hund*50)+'\n times. Currently on '+condition+'.\n Good luck!')
             except:
                 print("############################# E M A I L  F A I L E D. #############################")
-######## ONCE COMPLETE, PLEASE GO TO OUTPUT.CSV IN LOCAL DRIVE. HAVE FUN ##########
+
+
+
+######## ONCE EVERYTHING IS COMPLETE, PLEASE GO TO OUTPUT.CSV IN LOCAL DRIVE. HAVE FUN ##########
